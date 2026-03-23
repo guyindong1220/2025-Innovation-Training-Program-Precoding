@@ -1,4 +1,4 @@
-# [cite_start]频谱效率优化中的动态预编码设计方法研究 
+#频谱效率优化中的动态预编码设计方法研究 
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023a+-blue.svg)
 ![QuaDRiGa](https://img.shields.io/badge/QuaDRiGa-Channel%20Model-brightgreen.svg)
